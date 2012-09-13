@@ -7,6 +7,11 @@ a, a:visited {
 	text-decoration: none;
 }
 
+header #site-name {
+	padding-top: 10px;
+	padding-left: 165px;
+}
+
 .footer.outer, .header.outer {
 	background-image: none;
 	background: #F6F5F5;
