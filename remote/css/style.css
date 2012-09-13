@@ -7,6 +7,10 @@ a, a:visited {
 	text-decoration: none;
 }
 
+body.index.home .front-page .action-box-inner .create-button {
+	background-color: #68196A;
+}
+
 header #site-name {
 	padding-top: 10px;
 	padding-left: 165px;
