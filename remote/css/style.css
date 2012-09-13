@@ -11,3 +11,8 @@ a, a:visited {
 	background-image: none;
 	background: #F6F5F5;
 }
+
+body.index.home .front-page .action-box {
+	border-radius: 20px;
+	background: #EAC0FF;
+}
