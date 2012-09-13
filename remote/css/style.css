@@ -1,4 +1,9 @@
 a, a:visited {
-color: #68196A;
-text-decoration: none;
+	color: #68196A;
+	text-decoration: none;
+}
+
+.header.outer {
+	background-image: none;
+	background: #F6F5F5;
 }
